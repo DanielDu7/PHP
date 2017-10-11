@@ -34,8 +34,6 @@
 	 ?>
 
 	</table>
-	请输入账号：<input type="Text" name="Username">
-	<br>
 	<button type="submit" value="submit" name="submit">提交</button>
 	
 </form>
