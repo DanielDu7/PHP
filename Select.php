@@ -10,7 +10,8 @@
 	echo $row['Username']," ",$row['Password'];
 
 
-	echo Eric
+	echo Eric;
+	echo daniel;
  ?>
 
 
